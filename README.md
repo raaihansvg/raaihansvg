@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Raihan+Lazuardi;Informatics+Student+at+Universitas+Diponegoro;Aspiring+Data+Scientist;Machine+Learning+%26+Data+Analysis;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+Folks!%2C+I'm+Raihan+Lazuardi;Informatics+Student+at+Universitas+Diponegoro;Aspiring+Data+Scientist;Machine+Learning+%26+Data+Analysis;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
@@ -70,17 +70,7 @@ Currently focusing on strengthening my fundamentals while building **real, docum
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raihansvg&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihansvg&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Get in Touch
 
