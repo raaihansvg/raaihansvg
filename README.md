@@ -11,12 +11,12 @@
 
 Hi! I'm **Raihan Lazuardi**, an **Informatics student at Universitas Diponegoro** with a strong interest in **Data Science, Machine Learning, and Software Engineering**.
 
-I enjoy working with data — from **cleaning and exploration**, to **building models and evaluating results**.  
+I enjoy working with data from **cleaning and exploration**, to **building models and evaluating results**.  
 Currently focusing on strengthening my fundamentals while building **real, documented projects**.
 
 ---
 
-## 🎯 Focus Areas
+##  Focus Areas
 - Data Science & Data Analysis  
 - Machine Learning (Supervised Learning)  
 - Exploratory Data Analysis (EDA)  
@@ -25,7 +25,7 @@ Currently focusing on strengthening my fundamentals while building **real, docum
 
 ---
 
-## 🛠 Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <!-- Languages -->
@@ -56,22 +56,22 @@ Currently focusing on strengthening my fundamentals while building **real, docum
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-- 📊 **Data-Scientist-Projects**  
+-  **Data-Scientist-Projects**  
   Collection of data science projects covering EDA, preprocessing, and machine learning models.
 
-- 🧮 **Tetris-Matrix-Row-Elimination (C)**  
+- **Tetris-Matrix-Row-Elimination (C)**  
   Matrix manipulation and algorithmic logic inspired by Tetris mechanics.
 
-- 📚 **Library-Management-System-with-GUI (Python)**  
+-  **Library-Management-System-with-GUI (Python)**  
   Desktop-based library system with borrowing, returning, reservation, and tracking features.
 
 ---
 
 
 
-## 📫 Get in Touch
+##  Get in Touch
 
 <p align="left">
   <a href="https://id.linkedin.com/in/raihan-lazuardi-1a7a32329">
