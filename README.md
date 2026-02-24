@@ -89,4 +89,4 @@ Currently focusing on strengthening my fundamentals while building **real, docum
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*  
+ *Feel free to explore my repositories and connect with me!*  
