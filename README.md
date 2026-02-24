@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 About Me
+## Me
 
 Hi! I'm **Raihan Lazuardi**, an **Informatics student at Universitas Diponegoro** with a strong interest in **Data Science, Machine Learning, and Software Engineering**.
 
