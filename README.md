@@ -9,7 +9,7 @@
 ---
 
 
-Hi! I'm **Raihan Lazuardi**, an **Informatics student at Universitas Diponegoro** with a strong interest in **Data Science, Machine Learning, and Software Engineering**.
+Hi! I'm **Raihan Lazuardi**, an **Informatics student at Universitas Diponegoro** with a strong interest in **Data Science and Machine Learning**.
 
 I enjoy working with data from **cleaning and exploration**, to **building models and evaluating results**.  
 Currently focusing on strengthening my fundamentals while building **real, documented projects**.
@@ -18,10 +18,9 @@ Currently focusing on strengthening my fundamentals while building **real, docum
 
 ##  Focus Areas
 - Data Science & Data Analysis  
-- Machine Learning (Supervised Learning)  
-- Exploratory Data Analysis (EDA)  
+- Machine Learning 
+- Exploratory Data Analysis  
 - Data Cleaning & Preprocessing  
-- Basic Software Engineering Practices  
 
 ---
 
@@ -49,23 +48,6 @@ Currently focusing on strengthening my fundamentals while building **real, docum
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
 </p>
-
-
-
-
-
----
-
-##  Featured Projects
-
--  **Data-Scientist-Projects**  
-  Collection of data science projects covering EDA, preprocessing, and machine learning models.
-
-- **Tetris-Matrix-Row-Elimination (C)**  
-  Matrix manipulation and algorithmic logic inspired by Tetris mechanics.
-
--  **Library-Management-System-with-GUI (Python)**  
-  Desktop-based library system with borrowing, returning, reservation, and tracking features.
 
 ---
 
